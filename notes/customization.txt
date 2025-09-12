@@ -1,0 +1,2 @@
+https://extensions.gnome.org/
+https://ohmyposh.dev/docs/installation/customize
